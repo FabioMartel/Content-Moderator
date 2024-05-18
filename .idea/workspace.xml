@@ -1,39 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="61546291-c487-48eb-9754-ea28dd7247b9" name="Changes" comment="" />
+    <list default="true" id="e7e7c92f-9c4e-4911-833f-bdb499b4151b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/vallegrande/app/controller/ModerationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/vallegrande/app/controller/ModerationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/vallegrande/app/service/ContentModeratorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/vallegrande/app/service/ContentModeratorService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
-  <component name="ProjectId" id="2gISvY3imKzFRQUXHeZhMMKZY0O" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FabioMartel&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JoseMegun/AS221S5_T01_be.git&quot;,
+    &quot;accountId&quot;: &quot;02e8eaf7-3931-4a77-96e3-26a76f4c4008&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2gIT3s4NQjYrxcTCw9dQp1S6wP2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ModerationTextApplication.executor": "Run",
+    "JUnit.All in ModerationText (1).executor": "Run",
+    "JUnit.All in ModerationText (2).executor": "Run",
+    "JUnit.All in ModerationText.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "servicioAPI__SpringBoot",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/fabio/Desktop/Nueva carpeta/AS221S5_T01_be/ModerationText"
+    "last_opened_file_path": "C:/Users/fabio/Desktop/Nueva carpeta/AS221S5_T01_be/ModerationText",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pe.edu.vallegrande.app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ModerationTextApplication">
+    <configuration name="ModerationTextApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.vallegrande.app.ModerationTextApplication" />
+      <module name="ModerationText" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.vallegrande.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ModerationText (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ModerationText" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ModerationText (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ModerationText" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ModerationText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ModerationText" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ModerationTextApplication" />
+        <item itemvalue="JUnit.All in ModerationText (2)" />
+        <item itemvalue="JUnit.All in ModerationText" />
+        <item itemvalue="JUnit.All in ModerationText (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="61546291-c487-48eb-9754-ea28dd7247b9" name="Changes" comment="" />
-      <created>1715383829816</created>
+      <changelist id="e7e7c92f-9c4e-4911-833f-bdb499b4151b" name="Changes" comment="" />
+      <created>1715383896544</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1715383829816</updated>
+      <updated>1715383896544</updated>
     </task>
     <servers />
   </component>
