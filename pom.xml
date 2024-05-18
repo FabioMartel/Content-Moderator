@@ -9,12 +9,12 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>pe.edu.vallegrande</groupId>
-    <artifactId>ModerationText</artifactId>
+    <artifactId>speech</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ModerationText</name>
-    <description>Gestion de Servicio Cognitivo de API de Moderacion de Textos</description>
+    <name>speech</name>
+    <description>Content-Moderator</description>
     <properties>
-        <java.version>11</java.version> <!-- Cambio a Java 11 -->
+        <java.version>17</java.version>
     </properties>
 
 	<dependencies>
@@ -59,8 +59,7 @@
 		</dependency>    
     
     </dependencies>
-
-    <build>
+<build>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
