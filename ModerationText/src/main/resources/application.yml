@@ -1,0 +1,11 @@
+server: 
+  port: 8086
+
+spring:
+  application: 
+    name: T01_ServicioAPI
+    
+  r2dbc:
+    url: r2dbc:postgresql://postgres.ndiaodusqzgvfipzqgtg:moderatortext2024123@aws-0-us-west-1.pooler.supabase.com:5432/postgres
+    username: postgres
+    password: moderatortext2024123
