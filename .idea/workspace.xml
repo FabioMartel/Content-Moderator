@@ -7,6 +7,7 @@
     <list default="true" id="e7e7c92f-9c4e-4911-833f-bdb499b4151b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/vallegrande/app/controller/ModerationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/vallegrande/app/controller/ModerationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/vallegrande/app/entity/ModerationResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/vallegrande/app/entity/ModerationResult.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/vallegrande/app/service/ContentModeratorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/vallegrande/app/service/ContentModeratorService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
   <component name="RecentsManager">

@@ -7,22 +7,22 @@ import lombok.Data;
 
 
 @Data
-@Table(name = "moderacion")
+@Table("moderacion")
 public class ModerationResult {
 
     @Id
     private Integer id;
-    
+
     @Column(value = "OriginalText")
     private String originalText;
-    
+
     @Column(value = "NormalizedText")
     private String normalizedText;
-    
+
     @Column(value = "ConsultText")
     private String consultText;
-    
+
     @Column(value = "Status")
     private char status = 'A';
-    
+
 }
